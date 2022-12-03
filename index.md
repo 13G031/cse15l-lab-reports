@@ -11,8 +11,9 @@ Then I typed "vim TestDocSearch" to open the file so I can edit my code with vim
 -I pressed ESC just to make sure im in the normal mode.
 -Since my task is to change "start" into "base" And my first task is to type /apple<Enter> to make the cursor jumping to the start of apple, in this case im changing start into base so i typed /start which jumps me to the start of "start"
 
-![Image](https://raw.githubusercontent.com/13G031/cse15l-lab-reports/main/Screenshot%202022-12-02%20191323.png)
 ```
+![Image](https://raw.githubusercontent.com/13G031/cse15l-lab-reports/main/Screenshot%202022-12-02%20191323.png)
+  
 A description/screenshot of typing ce, switching into input mode and deleting the word apple
 
 ```
