@@ -25,6 +25,8 @@ A description/screenshot of typing banana<Esc>, replacing the text and returning
 ```
 After I typed "banana" which is base I pressed <ESC> which replace the text then returning back to insert mode.
 ```
+  ![Image](https://raw.githubusercontent.com/13G031/cse15l-lab-reports/main/2.png)
+  
 A description/screenshot of typing :w<Enter, saving the changes
 ```
 After Im done with editing the texts, I pressed <ESC> just to make sure im in normal mode, then I typed :w<Enter> So I can save the change that I made earlier. 
