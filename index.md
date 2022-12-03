@@ -19,6 +19,7 @@ A description/screenshot of typing ce, switching into input mode and deleting th
 ```
 -After I pressed /start<Enter> Which brings me to the word "start" then I typed "ce" which Delete the word "Start" then switched into insert mode, Then I filled in "base".
 ```
+  ![Image](https://raw.githubusercontent.com/13G031/cse15l-lab-reports/main/Screenshot%202022-12-02%20220239.png)
 A description/screenshot of typing banana<Esc>, replacing the text and returning to insert mode
 ```
 After I typed "banana" which is base I pressed <ESC> which replace the text then returning back to insert mode.
